@@ -3,7 +3,8 @@
   "description": "jQuery plugin that makes inline form labels usable again.",
   "main": "dist/floatingFormLabels.min.js",
   "authors": [
-    "Christian Heinrich"
+    "Christian Heinrich",
+    "Christopher Canisius"
   ],
   "license": "MIT",
   "keywords": [
